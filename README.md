@@ -6,5 +6,5 @@
 3. I then filled in the details requested on the form that popped up including repository name and description, and ticked the box to add a README.md file to this my new repository.
 4. Then I scrolled to the bottom page and selected create repository.
 5. Having created the repository, I added this write-up you're reading by clicking the edit icon on the README.
-6. Then, I wrote my assignment in the main repository.
+6. Then, I wrote my assignment in the main repository by clicking 'add file' and selecting create new repository and solving the assignment on the web(rather than uploading a jupyter notebook). #A repository has multiple files while the README.md is a markdown file that describes how to go about the project(s) in the repository.
 Thank you.
